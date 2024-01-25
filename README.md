@@ -7,4 +7,4 @@ Line Three grows this document by 33%.
 
 this is my new line on the remote version. now commit it. 
 
-this is my code on line 10 of local version. 
+this is my code on line 10 of local version. chose this line. 
