@@ -4,4 +4,4 @@ Let's add line number two.
 
 Line Three grows this document by 33%. 
 
-this is my new line on the remote version. 
+this is my new line on the remote version. now commit it. 
