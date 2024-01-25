@@ -6,3 +6,5 @@ Line Three grows this document by 33%.
 
 
 this is my new line on the remote version. now commit it. 
+
+this is my new line on line 10 on remote version. 
