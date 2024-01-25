@@ -4,6 +4,5 @@ Let's add line number two.
 
 Line Three grows this document by 33%. 
 
-Adding an additional line to this file for an example on github errors. 
 
-Additional line to test. 
+this is my new line on the remote version. now commit it. 
